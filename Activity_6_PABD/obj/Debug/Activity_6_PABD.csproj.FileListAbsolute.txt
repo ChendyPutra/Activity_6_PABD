@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\bin\Debug\Activity_6_PABD.exe.config
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\bin\Debug\Activity_6_PABD.exe
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\bin\Debug\Activity_6_PABD.pdb
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.Form1.resources
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.Form2.resources
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.Form4.resources
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.Properties.Resources.resources
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.exe
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.pdb
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.bnMahasiswa.resources
+C:\Users\HP\source\repos\Activity_6_PABD\Activity_6_PABD\obj\Debug\Activity_6_PABD.Form3.resources
